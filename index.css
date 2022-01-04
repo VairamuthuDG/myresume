@@ -1201,7 +1201,7 @@ table,th,td{
 .achieve{
     display: flex;
     flex-direction:column;
-    height:230px;
+    height:380px;
     width:380px;
     align-items: center;
     /* justify-content: center; */
